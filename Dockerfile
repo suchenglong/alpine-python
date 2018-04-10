@@ -1,4 +1,4 @@
-M jfloff/alpine-python:2.7
+FORM jfloff/alpine-python:2.7
 
 RUN apk add --no-cache expect openssh openssh-sftp-server lftp rsync curl wget git sshpass
 
